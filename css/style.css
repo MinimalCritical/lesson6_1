@@ -83,7 +83,7 @@ h2 {
 	margin: 40px 0 0 auto;
 }
 
-figcaption.reception {
+div.reception {
 	position: absolute;
 	right: -25px;
 	top: -29px;
@@ -128,10 +128,10 @@ figcaption.reception {
 	position: relative;
 }
 
-.reception-footer {
+div.reception-footer {
 	position: absolute;
 	bottom: -50px;
-	left: 370px;
+	left: 630px;
 	font-size: 22px;
 	color: red;
 }
